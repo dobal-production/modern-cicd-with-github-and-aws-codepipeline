@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.922.0",
-    "@cucumber/cucumber": "^12.2.0",
+    "@cucumber/cucumber": "^13.0.0",
     "cookie-parser": "^1.4.7",
     "debug": "^4.4.3",
     "dotenv": "^17.2.3",
